@@ -1,7 +1,7 @@
 # YelpCampind
 Best Indian Campsites WebApp
 
-**Live at -** http://yelpcampind.herokuapp.com/
+
 
 # ![YelpCamp India](https://res.cloudinary.com/dws2yfkqq/image/upload/v1587536264/YelpCamp_npbwdy.png)
 
