@@ -46,6 +46,3 @@ Application of Representational State Transfer (REST)
 | Destroy       | `/campgrounds/:id`         | DELETE       | Delete a particular campground, <br>then redirect somewhere   | Campground.findByIdAndUpdate()|
 
 
-## License
-
-MIT
